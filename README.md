@@ -1,4 +1,4 @@
-##### Hey, welcome to my github page! 👋
+# Hey, welcome to my github page! 👋
 
 <!--
 **remcalu/remcalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
