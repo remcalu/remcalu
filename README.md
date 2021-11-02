@@ -8,4 +8,5 @@ My name is **Remus**, and I'm currently a 3rd year student at the University of 
 * Cell Phone:     (226)-505-4457
 
 **Some other stats about me**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remcalu&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
