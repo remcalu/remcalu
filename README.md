@@ -6,3 +6,5 @@ My name is **Remus**, and I'm currently a 3rd year student at the University of 
 * School Email:   rcalugar@uoguelph.ca
 * Personal Email: remcalu@outlook.com
 * Cell Phone:     (226)-505-4457
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remcalu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
