@@ -15,6 +15,7 @@ My name is **Remus**, and I'm currently a 3rd year student at the University of 
 <img align="left" alt="C" width="32px" height="32px" src="https://559987-1802630-raikfcquaxqncofqfm.stackpathdns.com/assets/uploads/course/c-icon.jpg" />
 <img align="left" alt="R" width="32px" height="32px" src="https://journals.researchparks.org/public/journals/4/article_357_cover_en_US.png" />
 <img align="left" alt="React" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jest/jest.png" />
 <img align="left" alt="HTML5" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="32px" height="32px" src="https://www.brentozar.com/wp-content/uploads/2019/03/azure_sql_db-250x250.jpg" />
