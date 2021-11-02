@@ -12,7 +12,7 @@ My name is **Remus**, and I'm currently a 3rd year student at the University of 
 <img align="left" alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Java" width="32px" height="32px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b2b8c4e-abd8-42d5-a6b5-810b70d34962/d82sy8p-5e7766c6-44b1-4f2b-9192-a1ee3071ba55.png" />
-<img align="left" alt="C" width="32px" height="32px" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" />
+<img align="left" alt="C" width="32px" height="32px" src="https://559987-1802630-raikfcquaxqncofqfm.stackpathdns.com/assets/uploads/course/c-icon.jpg" />
 <img align="left" alt="R" width="32px" height="32px" src="https://journals.researchparks.org/public/journals/4/article_357_cover_en_US.png" />
 <img align="left" alt="React" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
