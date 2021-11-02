@@ -6,3 +6,5 @@ My name is **Remus**, and I'm currently a 3rd year student at the University of 
 * School Email:   rcalugar@uoguelph.ca
 * Personal Email: remcalu@outlook.com
 * Cell Phone:     (226)-505-4457
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
