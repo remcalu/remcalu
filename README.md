@@ -21,6 +21,7 @@ My name is **Remus**, and I'm currently a 3rd year student at the University of 
 <img align="left" alt="Jest" width="32px" height="32px" 
 src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67" />
 <img align="left" alt="ChakraUI" width="32px" height="32px" src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" />
+<img align="left" alt="Bootstrap" width="32px" height="32px" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" />
 <img align="left" alt="Visual Studio Code" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Docker" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Gradle" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />
