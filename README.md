@@ -16,7 +16,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="ChakraUI" width="32px" height="32px" src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" />
 <img align="left" alt="Node.js" width="32px" height="32px" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" />
 <img align="left" alt="HTML5" width="32px" height="32px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" alt="CSS3" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" />
+<img align="left" alt="CSS3" width="32px" height="32px" src="https://www.iconbolt.com/iconsets/social-media-logos/css3-html-logo-social-social-media.svg" />
 <img align="left" alt="Bootstrap" width="32px" height="32px" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" />
 <img align="left" alt="Python" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Selenium" width="32px" height="32px" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" />
