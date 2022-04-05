@@ -21,6 +21,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="Python" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Selenium" width="32px" height="32px" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" />
 <img align="left" alt="Flutter" width="32px" height="32px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b2b8c4e-abd8-42d5-a6b5-810b70d34962/d82sy8p-5e7766c6-44b1-4f2b-9192-a1ee3071ba55.png" />
+<img align="left" alt="Dart" width="32px" height="32px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
 <img align="left" alt="Java" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" />
 <img align="left" alt="Gradle" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />
 <img align="left" alt="Docker" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
