@@ -33,7 +33,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 
 <br><br><br>
 ### 🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛
-<img align="left" alt="Flutter" width="32px" height="32px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b2b8c4e-abd8-42d5-a6b5-810b70d34962/d82sy8p-5e7766c6-44b1-4f2b-9192-a1ee3071ba55.png" />
+<img align="left" alt="Flutter" width="32px" height="32px" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" />
 <img align="left" alt="Dart" width="32px" height="32px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
 <img align="left" alt="Fortran 95" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />
 <img align="left" alt="Ada" width="32px" height="32px" src="https://styles.redditmedia.com/t5_2qi8f/styles/communityIcon_ej0vurfqb8t61.png" />
