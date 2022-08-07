@@ -26,7 +26,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="Gradle" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />
 <img align="left" alt="Java" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" />
 <img align="left" alt="Docker" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="C" width="32px" height="32px" src="https://559987-1802630-raikfcquaxqncofqfm.stackpathdns.com/assets/uploads/course/c-icon.jpg" />
+<img align="left" alt="C" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="Fortran 95" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />
 <img align="left" alt="Ada" width="32px" height="32px" src="https://styles.redditmedia.com/t5_2qi8f/styles/communityIcon_ej0vurfqb8t61.png" />
 <img align="left" alt="Cobol" width="32px" height="32px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/e9/d9/e6e9d9ac-ab7f-4ec7-8082-7f4cb04bc204/source/512x512bb.jpg" />
