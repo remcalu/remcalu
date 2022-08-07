@@ -34,6 +34,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <br><br><br>
 ### 🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛
 <img align="left" alt="Flutter" width="32px" height="32px" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" />
+<img align="left" alt="Groovy" width="32px" height="32px" src="https://www.pngfind.com/pngs/m/213-2138387_file-groovy-logo-svg-groovy-language-logo-hd.png" />
 <img align="left" alt="Dart" width="32px" height="32px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
 <img align="left" alt="Fortran 95" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />
 <img align="left" alt="Ada" width="32px" height="32px" src="https://styles.redditmedia.com/t5_2qi8f/styles/communityIcon_ej0vurfqb8t61.png" />
