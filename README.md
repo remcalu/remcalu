@@ -8,7 +8,7 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 
 ## Languages and Technologies
 ### 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-<img align="left" alt="Java" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" />
+<img align="left" alt="Java" width="32px" height="32px" src="https://asprise.com/res/img/menu/java.png" />
 <img align="left" alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
