@@ -29,7 +29,7 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 <img align="left" alt="Node.js" width="32px" height="32px" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" />
 <img align="left" alt="Jest" width="32px" height="32px" 
 src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67" />
-<img align="left" alt="GitHub" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="32px" height="32px" src="https://banner2.cleanpng.com/20180530/bhv/kisspng-github-protocol-buffers-computer-software-reposito-5b0f05cee60d81.7341787015277111829423.jpg" />
 <img align="left" alt="Linux" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="IntelliJ" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Spock" width="32px" height="32px" src="https://avatars.githubusercontent.com/u/297723?s=280&v=4" />
