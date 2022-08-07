@@ -30,7 +30,7 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 <img align="left" alt="Jest" width="32px" height="32px" 
 src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67" />
 <img align="left" alt="GitHub" width="32px" height="32px" src="https://ceias.nau.edu/capstone/projects/CS/2020/Digitool-S20/images/github.png" />
-<img align="left" alt="Linux" width="32px" height="32px" src="https://w7.pngwing.com/pngs/368/650/png-transparent-tuxedo-linux-computer-icons-linux-vertebrate-monochrome-bird.png" />
+<img align="left" alt="Linux" width="32px" height="32px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
 <img align="left" alt="IntelliJ" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Spock" width="32px" height="32px" src="https://avatars.githubusercontent.com/u/297723?s=280&v=4" />
 
