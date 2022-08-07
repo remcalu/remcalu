@@ -40,4 +40,5 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="SQL" width="32px" height="32px" src="https://www.brentozar.com/wp-content/uploads/2019/03/azure_sql_db-250x250.jpg" />
 <img align="left" alt="Android Studio" width="32px" height="32px" src="https://i.stack.imgur.com/9E2Gd.png" />
 <img align="left" alt="ChakraUI" width="32px" height="32px" src="https://images.opencollective.com/chakra-ui-pro/61bd1dd/logo/256.png" />
+<img align="left" alt="C++" width="32px" height="32px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" />
 <img align="left" alt="Bootstrap" width="32px" height="32px" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" />
