@@ -5,6 +5,7 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 * School Email:   rcalugar@uoguelph.ca
 * Personal Email: remcalu@outlook.com or remuscalugarescu@gmail.com
 * Cell Phone:     (226)-505-4457
+* Linkedin:       https://www.linkedin.com/in/remuscalugarescu/
 
 ## Language and Technology proficiency
 ### 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
