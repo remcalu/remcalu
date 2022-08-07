@@ -9,7 +9,7 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 
 ## Language and Technology proficiency
 ### 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-<img align="left" alt="Java" width="32px" height="32px" src="https://asprise.com/res/img/menu/java.png" />
+<img align="left" alt="Java" width="32px" height="32px" src="https://asprise.com/res/img/menu/java.png" />[Java]
 <img align="left" alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="C" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
@@ -50,4 +50,4 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="Bootstrap" width="32px" height="32px" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" />
 <img align="left" alt="Spring Boot" width="32px" height="32px" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" />
 
-[id1]: ## "your hover text"
+[Java]: ## "Java"
