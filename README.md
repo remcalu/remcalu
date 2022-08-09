@@ -15,13 +15,14 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 <img align="left" alt="C" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="React" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="32px" height="32px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" alt="Visual Studio Code" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Selenium" width="32px" height="32px" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" />
 
 <br><br><br>
 ### 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛
 <img align="left" alt="Vue.JS" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
+<img align="left" alt="HTML5" width="32px" height="32px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
+<img align="left" alt="Visual Studio Code" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Selenium" width="32px" height="32px" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" />
+
 <img align="left" alt="Maven" width="32px" height="32px" src="https://user-images.githubusercontent.com/59599955/183299536-0353f569-8657-483b-8875-33dcf6f73f15.png" />
 <img align="left" alt="Gradle" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />
 <img align="left" alt="Docker" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
