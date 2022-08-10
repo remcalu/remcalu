@@ -1,5 +1,5 @@
 # Hey, welcome to my GitHub page! 👋
-My name is **Remus**, and I'm currently a 4th year student at the University of Guelph, pursuing a degree in Honours Computer Science. Lately I've been getting a lot of experience with **Web development** and **Python programming**, if you're intrested in looking at my projects I'd recommend checking out my **Scrape Mega** project first, you can visit the website at http://scrapeme.ga/!
+My name is **Remus**, and I'm currently a 4th year student at the University of Guelph, pursuing a degree in Honours Computer Science. Lately I've been getting a lot of experience with **Web development** through **React** and **Typesript**, and some **Backend development** through **Java** and *Python*, if you're intrested in learning more about me, you should check out my [personal website](https://remcalu.github.io/Personal-Website/#/)!
 
 ## Contact Information
 * School Email:   rcalugar@uoguelph.ca
