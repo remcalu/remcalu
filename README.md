@@ -2,10 +2,11 @@
 My name is **Remus**, and I'm currently a 4th year student at the University of Guelph, pursuing a degree in Honours Computer Science. Lately I've been getting a lot of experience with **Web development** through **React** and **TypeScript**, and some **Backend development** through **Java** and **Python**, if you're intrested in learning more about me, you should check out my [personal website](https://remcalu.github.io/Personal-Website/#/)!
 
 ## Contact Information
-* School Email:   rcalugar@uoguelph.ca
-* Personal Email: remcalu@outlook.com or remuscalugarescu@gmail.com
-* Cell Phone:     (226)-505-4457
-* Linkedin:       https://www.linkedin.com/in/remuscalugarescu/
+* Personal Website: https://remcalu.github.io/Personal-Website
+* School Email:     rcalugar@uoguelph.ca
+* Personal Email:   remcalu@outlook.com or remuscalugarescu@gmail.com
+* Cell Phone:       (226)-505-4457
+* Linkedin:         https://www.linkedin.com/in/remuscalugarescu
 
 ## Language and Technology proficiency
 ### 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
