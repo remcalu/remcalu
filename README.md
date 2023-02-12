@@ -11,6 +11,7 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 ## Languages and Technologies
 
 ### Frontend
+
 <img align="left" alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -32,6 +33,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 
 
 ### Backend
+
 <img align="left" alt="Java" width="32px" height="32px" src="https://asprise.com/res/img/menu/java.png" />
 <img align="left" alt="Python" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Maven" width="32px" height="32px" src="https://user-images.githubusercontent.com/59599955/183299536-0353f569-8657-483b-8875-33dcf6f73f15.png" />
@@ -44,15 +46,18 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 
 
 ### Databases
+
 <img align="left" alt="SQL" width="32px" height="32px" src="https://www.brentozar.com/wp-content/uploads/2019/03/azure_sql_db-250x250.jpg" />
 
 
 ### CI/CD & Cloud
+
 <img align="left" alt="AWS" width="32px" height="32px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" />
 <img align="left" alt="Docker" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 
 ### Other
+
 <img align="left" alt="Visual Studio Code" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="32px" height="32px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
 <img align="left" alt="Android Studio" width="32px" height="32px" src="https://i.stack.imgur.com/9E2Gd.png" />
