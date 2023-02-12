@@ -12,7 +12,6 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 <img align="left" alt="Java" width="32px" height="32px" src="https://asprise.com/res/img/menu/java.png" />
 <img align="left" alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="C" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="React" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="AWS" width="32px" height="32px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" />
@@ -32,6 +31,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="Node.js" width="32px" height="32px" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" />
 <img align="left" alt="Linux" width="32px" height="32px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
 <img align="left" alt="IntelliJ" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="C" width="32px" height="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="Spock" width="32px" height="32px" src="https://avatars.githubusercontent.com/u/297723?s=280&v=4" />
 <img align="left" alt="Flutter" width="32px" height="32px" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" />
 <img align="left" alt="Groovy" width="32px" height="32px" src="https://devskiller.com/wp-content/plugins/devskiller-catalog/assets/images/skills/groovy.png?48306e1f" />
