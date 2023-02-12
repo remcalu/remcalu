@@ -9,8 +9,6 @@ My name is **Remus**, and I'm currently a 4th year student at the University of 
 * Linkedin:         https://www.linkedin.com/in/remuscalugarescu
 
 ## Languages and Technologies
-
-### Frontend
 <img align="left" alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -29,9 +27,7 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="Bootstrap" width="32px" height="32px" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" />
 <img align="left" alt="Mocha" width="32px" height="32px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
 <img align="left" alt="Dart" width="32px" height="32px" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" />
-<br><br>
 
-### Backend
 <img align="left" alt="Java" width="32px" height="32px" src="https://asprise.com/res/img/menu/java.png" />
 <img align="left" alt="Python" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Maven" width="32px" height="32px" src="https://user-images.githubusercontent.com/59599955/183299536-0353f569-8657-483b-8875-33dcf6f73f15.png" />
@@ -41,18 +37,12 @@ src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e9
 <img align="left" alt="Fortran 95" width="32px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" />
 <img align="left" alt="Ada" width="32px" height="32px" src="https://styles.redditmedia.com/t5_2qi8f/styles/communityIcon_ej0vurfqb8t61.png" />
 <img align="left" alt="Cobol" width="32px" height="32px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/e9/d9/e6e9d9ac-ab7f-4ec7-8082-7f4cb04bc204/source/512x512bb.jpg" />
-<br><br>
 
-### Databases
 <img align="left" alt="SQL" width="32px" height="32px" src="https://www.brentozar.com/wp-content/uploads/2019/03/azure_sql_db-250x250.jpg" />
-<br><br>
 
-### CI/CD & Cloud
 <img align="left" alt="AWS" width="32px" height="32px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" />
 <img align="left" alt="Docker" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<br><br>
 
-### Other
 <img align="left" alt="Visual Studio Code" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="32px" height="32px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
 <img align="left" alt="Android Studio" width="32px" height="32px" src="https://i.stack.imgur.com/9E2Gd.png" />
