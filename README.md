@@ -3,7 +3,7 @@
 <h1 align="center">Intro</h1>
 
 <div align="center">
-  <h3 align="center">I am in my 4th year at the University of Guelph and will be graduating in May 2024</p>
+  <h3 align="center">I have 2 years of software development experience and am in my 4th year at the University of Guelph. I'll be graduating in May 2024 and am currently looking for new grad opportunities!</h3>
 
   <a href="https://www.linkedin.com/in/remuscalugarescu/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin logoColor=white" height=25>
