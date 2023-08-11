@@ -17,7 +17,7 @@
 </p>
 
 </br>
-<h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
+<h1 align="center">Top Languages & Technologies & Frameworks & Tools</h1>
 <p align="center">
   </br>
   <code><img title="TypeScript" height="35" src="./assets/ts.svg"></code>
