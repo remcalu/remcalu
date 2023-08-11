@@ -22,6 +22,7 @@
   <code><img title="JavaScript" height="35" src="./assets/javascript.svg"></code>
   <code><img title="ReactJS" height="35" src="./assets/react.svg"></code>
   <code><img title="Vue" height="35" src="./assets/vue.svg"></code>
+  <code><img title="GraphQL" height="35" src="./assets/postgresql.svg"></code>
   <code><img title="Python" height="35" src="./assets/python.svg"></code>
   <code><img title="Django" height="35" src="./assets/django.svg"></code>
   <code><img title="Java" height="35" src="./assets/java.svg"></code>
@@ -31,10 +32,14 @@
 </p>
 <p align="center">
   <code><img title="Sass" height="35" src="./assets/sass.svg"></code>
-  <code><img title="MySQL" height="35" src="./assets/mysql.svg"></code>
+  <code><img title="Jest" height="35" src="./assets/jest.svg"></code>
+  <code><img title="Selenium" height="35" src="./assets/selenium.svg"></code>
+  <code><img title="Redux" height="35" src="./assets/redux.svg"></code>
+  <code><img title="Docker" height="35" src="./assets/docker.svg"></code>
+  <code><img title="Postgresql" height="35" src="./assets/postgresql.svg"></code>
   <code><img title="Git" height="35" src="./assets/git.svg"></code>
-  <code><img title="C Programming" height="35" src="./assets/c.svg"></code>
-  <code><img title="NodeJS" height="35" src="./assets/node_js.svg"></code>
+  <code><img title="C" height="35" src="./assets/c.svg"></code>
+  <code><img title="Linux" height="35" src="./assets/git.svg"></code>
 </p>
 
 </br>
