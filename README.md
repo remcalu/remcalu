@@ -22,7 +22,7 @@
   <code><img title="JavaScript" height="35" src="./assets/javascript.svg"></code>
   <code><img title="ReactJS" height="35" src="./assets/react.svg"></code>
   <code><img title="Vue" height="35" src="./assets/vue.svg"></code>
-  <code><img title="GraphQL" height="35" src="./assets/postgresql.svg"></code>
+  <code><img title="GraphQL" height="35" src="./assets/graphql.svg"></code>
   <code><img title="Python" height="35" src="./assets/python.svg"></code>
   <code><img title="Django" height="35" src="./assets/django.svg"></code>
   <code><img title="Java" height="35" src="./assets/java.svg"></code>
@@ -39,7 +39,7 @@
   <code><img title="Postgresql" height="35" src="./assets/postgresql.svg"></code>
   <code><img title="Git" height="35" src="./assets/git.svg"></code>
   <code><img title="C" height="35" src="./assets/c.svg"></code>
-  <code><img title="Linux" height="35" src="./assets/git.svg"></code>
+  <code><img title="Linux" height="35" src="./assets/linux.svg"></code>
 </p>
 
 </br>
