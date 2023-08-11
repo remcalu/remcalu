@@ -2,7 +2,10 @@
 
 <h1 align="center">Intro</h1>
 
-<p align="center">
+<div align="center">
+  <p align="center">I am in my 4th year at the University of Guelph and will be graduating in May 2024</p>
+  </br>
+
   <a href="https://www.linkedin.com/in/remuscalugarescu/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin logoColor=white" height=25>
   </a>
