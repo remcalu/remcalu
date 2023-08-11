@@ -9,6 +9,9 @@
   <a href="https://remcalu.github.io/portfolio/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height=25>
   </a>
+  <a href="mailto:remcalu@outlook.com">
+    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
 </p>
 
 </br>
@@ -27,7 +30,7 @@
   <code><img title="AWS" height="35" src="./assets/aws.svg"></code>
 </p>
 <p align="center">
-  <code><img title="CSS" height="35" src="./assets/css.svg"></code>
+  <code><img title="Sass" height="35" src="./assets/sass.svg"></code>
   <code><img title="MySQL" height="35" src="./assets/mysql.svg"></code>
   <code><img title="Git" height="35" src="./assets/git.svg"></code>
   <code><img title="C Programming" height="35" src="./assets/c.svg"></code>
