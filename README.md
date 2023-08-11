@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2000&pause=2000&color=A85BFF&width=435&lines=.+.+.+%F0%9F%91%8B+Howdy+strangers+%F0%9F%91%8B+.+.+.;.+.+.+%F0%9F%8F%A0+Welcome+to+my+humble+abode+%F0%9F%8F%A0+.+.+.;.+.+.+%F0%9F%91%BE+Check+out+some+of+my+projects+%F0%9F%91%BE+.+.+.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2000&pause=2000&color=A85BFF&width=550&height=28&lines=.+.+.+%F0%9F%91%8B+Howdy+strangers+%F0%9F%91%8B+.+.+.;.+.+.+%F0%9F%8F%A0+Welcome+to+my+humble+abode+%F0%9F%8F%A0+.+.+.;.+.+.+%F0%9F%91%BE+Check+out+some+of+my+projects+%F0%9F%91%BE+.+.+." alt="Typing SVG" /></a>
 
 <h1 align="center">Intro</h1>
 
