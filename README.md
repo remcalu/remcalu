@@ -43,9 +43,3 @@
   <code><img title="C" height="35" src="./assets/c.svg"></code>
   <code><img title="Linux" height="35" src="./assets/linux.svg"></code>
 </p>
-
-</br>
-<h1 align="center">GitHub Stats</h1>
-<p align="center">
-</br>
-</p>
