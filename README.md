@@ -49,7 +49,3 @@
 <p align="center">
 </br>
 </p>
-
-<p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=remcalu&layout=compact&langs_count=9&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=dracula&border_color=A85BFF"/>
-</p>
