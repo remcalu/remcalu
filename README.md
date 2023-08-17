@@ -43,3 +43,11 @@
   <code><img title="C" height="35" src="./assets/c.svg"></code>
   <code><img title="Linux" height="35" src="./assets/linux.svg"></code>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=remcalu&theme=dracula&exclude=>
+</p>
+
+<p align="center">
+  <img height="225" width="450" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remcalu&theme=dracula"/>
+</p>
