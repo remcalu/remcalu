@@ -3,7 +3,7 @@
 <h1 align="center">Intro</h1>
 
 <div align="center">
-  <h3 align="center">I have 2 years of software development experience and have graduated from the University of Guelph with an Honours degree in Computer Science</h3>
+  <h3 align="center">I have 2 years of software development experience and graduated from the University of Guelph with an Honours degree in Computer Science</h3>
 
   <a href="https://www.linkedin.com/in/remuscalugarescu/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin logoColor=white" height=25>
