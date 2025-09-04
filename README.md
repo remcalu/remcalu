@@ -48,6 +48,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=remcalu&theme=dracula"/>
 </p>
 
+<!--
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remcalu&theme=dracula"/>
 </p>
+-->
